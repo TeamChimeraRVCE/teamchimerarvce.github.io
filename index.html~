@@ -1646,7 +1646,7 @@
                                     <p>Computer Engineer</p>
                                 </div>
                                 <div class="col-lg-3">
-                                    <img class="img-size img-circle" src="img/team/Raghuvarya.jpeg">
+                                    <img class="img-size img-circle" style="object-fit:contain;" src="img/team/Raghuvarya.jpeg">
                                     <h3>Raghuvarya S</h3>
                                     <p>Computer Engineer</p>
                                 </div>
@@ -1722,7 +1722,7 @@
 
                                 </div>
                                 <div class="col-lg-3">
-                                    <img class="img-size img-circle" style="object-fit:contain;"  src="img/team/Bhardwaj.jpg">
+                                    <img class="img-size img-circle"  src="img/team/Bhardwaj.jpg">
                                     <h3>Raghava Ram Bharadwaj</h3>
                                     <p>Electrical System Officer</p>
                                 </div>
