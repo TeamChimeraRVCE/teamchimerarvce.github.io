@@ -3,10 +3,7 @@
 
 
 /*
-body {
-    overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
+
 
 .text-muted {
     color: #777;
@@ -58,7 +55,10 @@ h6 {
 .img-centered {
     margin: 0 auto;
 }*/
-
+body {
+    overflow-x: hidden;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 .bg-light-gray {
     background-color: #f7f7f7;
 }
