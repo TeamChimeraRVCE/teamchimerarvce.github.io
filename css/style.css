@@ -55,6 +55,19 @@ h6 {
 .img-centered {
     margin: 0 auto;
 }*/
+
+
+.prakashtitle:after{
+	content:"Project Manager";
+}
+
+.prakashtitle:hover:after  {
+	content:"Multiple Subsystems";
+}
+
+
+
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
