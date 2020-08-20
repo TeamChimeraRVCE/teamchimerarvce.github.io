@@ -1070,6 +1070,10 @@ body {
 	color: darkgreen;
 }
 
+.footer-text{
+	color: white !important;
+}
+
 .selector:hover {
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
