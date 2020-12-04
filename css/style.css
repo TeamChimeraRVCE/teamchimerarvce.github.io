@@ -327,6 +327,17 @@ header .intro-text .intro-heading {
     }
 }
 */
+
+@font-face {
+	font-family: spaceage;
+	src: url('/fonts/space_age.otf');
+  }
+
+.space-age{
+	font-family:spaceage ;
+	font-size: 25px;
+}
+
 section {
 	padding: 70px 0;
 }
