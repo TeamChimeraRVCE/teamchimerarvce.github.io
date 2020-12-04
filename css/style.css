@@ -336,6 +336,11 @@ header .intro-text .intro-heading {
 
 .b-bg{
 	height:100%;
+	 
+}
+
+.b-height {
+	height:auto;
 }
   
 .b-card{
