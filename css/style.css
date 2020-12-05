@@ -330,12 +330,19 @@ header .intro-text .intro-heading {
 .grid-container {
 	display: grid;
     grid-template-columns: repeat(3, 1fr);
-   
+	
     grid-gap: 15px;
   }
 
-.b-bg{
-	height:100%;
+  .grid-item{
+	justify-content: center;
+	align-items: center;
+	  padding: 10px;
+  }
+
+.bg-video{
+	width: 50%;
+	margin:5px;
 	 
 }
 
@@ -344,14 +351,14 @@ header .intro-text .intro-heading {
 }
   
 .b-card{
-	height: 100% !important;
+	height: 90% !important;
 	width:100% !important;
 	-webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -ms-transition: all 1s ease;
   transition: all 1s ease;
   box-shadow:0 1px 4px rgba(0, 0, 0, 0.3); 
-  margin:10px;
+	margin: auto;
 	
 }
 
@@ -1009,6 +1016,12 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+	.bg-video{
+		width: 100%;
+		
+		 
+	}
+	
 
 	.grid-container {
 		display: grid;
