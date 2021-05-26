@@ -407,6 +407,23 @@ section h3.section-subheading {
 	margin: 15px 0;
 	text-transform: none;
 }
+.state
+{
+	margin: 30px 	;
+}
+
+#results
+{
+	background-color: #195e19;
+}
+.results
+{
+	position: relative;
+	padding: 30px;
+	border-radius: 20px;
+	border: 2px solid white;
+	background-color: #195e19;
+}
 
 #portfolio .portfolio-item {
 	right: 0;
