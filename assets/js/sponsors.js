@@ -31,11 +31,11 @@ var list = new Vue({
 				image: "assets/img/sponsers/norwood.webp",
 				name: "Norwood",
 			},
-			{
+			/*{
 				link: "https://www.idp.com/global",
 				image: "assets/img/sponsers/idp.webp",
 				name: "IDP",
-			},
+			},*/
 		],
 		technicalSponsers: [
 			{
