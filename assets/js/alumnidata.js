@@ -33,7 +33,7 @@ var alumni = new Vue({
 				currentJob: "Battery Integration Engineer",
 				currentCompany: "Rivian",
 				currentLocation: "Irvine, California",
-				emailId: "jontyverghese@gmail.com",
+				
 				image: "jonathanverghese.webp",
 			},
 			{
@@ -47,7 +47,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "Meritor",
 				currentLocation: "Bangalore",
-				emailId: "Ajit306@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -61,7 +61,7 @@ var alumni = new Vue({
 				currentJob: "Manufacturing Engineer",
 				currentCompany: "Lightforce Orthodontics",
 				currentLocation: "Boston",
-				emailId: "Sthita1212@gmail.com",
+				
 				image: "sthitapradyna.webp",
 			},
 			{
@@ -75,7 +75,7 @@ var alumni = new Vue({
 				currentJob: "Student",
 				currentCompany: "XIMB",
 				currentLocation: "Bhubaneswar, Odisha",
-				emailId: "avijoshi621@gmail.com",
+				
 				image: "avinashjoshi.webp",
 			},
 			{
@@ -89,7 +89,7 @@ var alumni = new Vue({
 				currentJob: "Student",
 				currentCompany: "IIT Bombay",
 				currentLocation: "Mumbai",
-				emailId: "nishchay1110@gmail.com",
+				
 				image: "nischay.webp",
 			},
 			{
@@ -103,7 +103,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "akshayp110@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -117,7 +117,7 @@ var alumni = new Vue({
 				currentJob: "Electrical engineer",
 				currentCompany: "Mbrdi",
 				currentLocation: "Bengaluru",
-				emailId: "akshayr1995.india@gmail.com",
+				
 				image: "akshayr.webp",
 			},
 			{
@@ -131,7 +131,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "sumukhaudupa@ymail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -145,7 +145,7 @@ var alumni = new Vue({
 				currentJob: "Software Engineer",
 				currentCompany: "Recko Inc",
 				currentLocation: "Bangalore",
-				emailId: "gokulshankar.sai@gmail.com",
+				
 				image: "ganne.webp",
 			},
 			{
@@ -159,7 +159,7 @@ var alumni = new Vue({
 				currentJob: "Business Analyst",
 				currentCompany: "Toyota kirloskar motors",
 				currentLocation: "Bangalore",
-				emailId: "saicharan576@gmail.com",
+				
 				image: "saicharan.webp",
 			},
 			{
@@ -173,7 +173,7 @@ var alumni = new Vue({
 				currentJob: "Student",
 				currentCompany: "NITIE",
 				currentLocation: "Mumbai",
-				emailId: "niral3007@gmail.com",
+				
 				image: "niral.webp",
 			},
 			{
@@ -188,7 +188,7 @@ var alumni = new Vue({
 				currentJob: "Research assistant at IISc",
 				currentCompany: "Indian Institute of Science",
 				currentLocation: "Bengaluru",
-				emailId: "darshan.gm9@gmail.com",
+				
 				image: "darshang.webp",
 			},
 			{
@@ -202,7 +202,7 @@ var alumni = new Vue({
 				currentJob: "Senior officer",
 				currentCompany: "Toyota kirloskar motor Pvt Ltd",
 				currentLocation: "Banglore",
-				emailId: "er.sumanth@gmail.com",
+				
 				image: "ersumanth.webp",
 			},
 			{
@@ -216,7 +216,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "sulliakarthik@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -230,7 +230,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "shivraj.sonth123@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -244,7 +244,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "soubhig@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -258,7 +258,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "Kiranganiger007@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -272,7 +272,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "vikas.jamkhandi@gmail.com",
+				
 				image: "vikasj.webp",
 			},
 			{
@@ -286,7 +286,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "vishalkulkarnicvh@gmail.com",
+				
 				image: "vishalkulkarni.webp",
 			},
 			{
@@ -300,7 +300,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "adithya.adi.m9@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -314,7 +314,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "adityaanil1996@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -328,7 +328,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "aditya.prasanna96@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -342,7 +342,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "royalakhil777@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -356,7 +356,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "anishamoghjain@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -370,7 +370,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "jnanashekarreddy@gmail.com",
+				
 				image: "jnanashekar.webp",
 			},
 			{
@@ -384,7 +384,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "Paryani.nikhil293@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -398,7 +398,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "saitarak.padarthi@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -412,7 +412,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "shiva.vanjire@yahoo.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -426,7 +426,7 @@ var alumni = new Vue({
 				currentJob: "Self employed",
 				currentCompany: "Prakhyath Machine & Machine Tools Pvt.Ltd.",
 				currentLocation: "BANGALORE",
-				emailId: "kprajwal0@gmail.com",
+				
 				image: "prajwalmurthy.webp",
 			},
 			{
@@ -440,7 +440,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "Citrix",
 				currentLocation: "Bengaluru",
-				emailId: "chethan749@gmail.com",
+				
 				image: "chethankp.webp",
 			},
 			{
@@ -454,7 +454,7 @@ var alumni = new Vue({
 				currentJob: "Masters student",
 				currentCompany: "University of Colorado Boulder",
 				currentLocation: "Boulder",
-				emailId: "Rahul.ramaprasad@gmail.com",
+				
 				image: "rahulrp.webp",
 			},
 			{
@@ -468,7 +468,7 @@ var alumni = new Vue({
 				currentJob: "Software Engineer",
 				currentCompany: "Cisco systems",
 				currentLocation: "Bengaluru",
-				emailId: "rahulpatil61197@gmail.com",
+				
 				image: "rahulpatil.webp",
 			},
 			{
@@ -482,7 +482,7 @@ var alumni = new Vue({
 				currentJob: "Business Analyst",
 				currentCompany: "Box8",
 				currentLocation: "Mumbai",
-				emailId: "swapnilsavarn@gmail.com",
+				
 				image: "swapnilsavaran.webp",
 			},
 			{
@@ -496,7 +496,7 @@ var alumni = new Vue({
 				currentJob: "Design Engineer",
 				currentCompany: "Agni Motors",
 				currentLocation: "Bengaluru",
-				emailId: "anshuman.karaba@gmail.com",
+				
 				image: "anshuman.webp",
 			},
 			{
@@ -509,7 +509,7 @@ var alumni = new Vue({
 				subsystem: "Powertrain,brakes, suspension",
 				currentJob: "Pursuing masters",
 				currentCompany: "NA",
-				emailId: "prakyathpoojary07@gmail.com",
+				
 				image: "prakyathp.webp",
 			},
 			{
@@ -523,7 +523,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "srujan.rangayyan@gmail.com",
+			
 				image: "srujan.webp",
 			},
 			{
@@ -537,7 +537,7 @@ var alumni = new Vue({
 				currentJob: "Design engineer",
 				currentCompany: "Inteva products",
 				currentLocation: "Bangalore",
-				emailId: "nikhilbbhat1398@gmail.com",
+				
 				image: "nikhilbhat.webp",
 			},
 			{
@@ -551,7 +551,7 @@ var alumni = new Vue({
 				currentJob: "R&D Engineer",
 				currentCompany: "Synopsys",
 				currentLocation: "Bangalore",
-				emailId: "vishalraj736@gmail.com",
+				
 				image: "vishalFA.webp",
 			},
 			{
@@ -565,7 +565,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "nithinhk456@gmail.com",
+				
 				image: "nithinhk.webp",
 			},
 			{
@@ -579,7 +579,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "salankimatt.sanket@gmail.com",
+			
 				image: "placeholder.webp",
 			},
 			{
@@ -593,7 +593,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "nishchal.manjanbail@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -607,7 +607,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "santoshhosale458@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -621,7 +621,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "sp.swaroop1234@gmail.com",
+			
 				image: "placeholder.webp",
 			},
 			{
@@ -635,7 +635,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "vinayakvk38@gmail.com",
+			
 				image: "placeholder.webp",
 			},
 			{
@@ -649,7 +649,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "vishalraj736@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -663,7 +663,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "akhil.al.rvce@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -677,7 +677,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "amrutpatil717@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -691,7 +691,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "ashwinku19@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -705,7 +705,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "jayanthbhargav1103@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -719,7 +719,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "pvrohith97@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -733,7 +733,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "prajju21041997@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -747,7 +747,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "shrikesh97@yahoo.co.in",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -761,7 +761,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "Aditya1298@live.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -775,7 +775,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "anshul.navik111@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -789,7 +789,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "arunrathod526@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -803,7 +803,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "mallinasandeeps@gmail.com",
+			
 				image: "placeholder.webp",
 			},
 			{
@@ -817,7 +817,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "jayannasing@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -831,7 +831,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "mishrasagar1@gmail.com",
+				
 				image: "sagarmishra.webp",
 			},
 			{
@@ -845,7 +845,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "sbathwal709@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -859,7 +859,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "vagishmishra97@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -873,7 +873,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "basavarjmeti49@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -887,7 +887,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "rampraneethlanka@gmail.com",
+				
 				image: "praneethlanka.webp",
 			},
 			{
@@ -901,7 +901,7 @@ var alumni = new Vue({
 				currentJob: "Engineering Intern",
 				currentCompany: "Lam research",
 				currentLocation: "Bengaluru",
-				emailId: "venkateshsatish96@gmail.com",
+				
 				image: "venkatesh.webp",
 			},
 			{
@@ -915,7 +915,7 @@ var alumni = new Vue({
 				currentJob: "Software Developer",
 				currentCompany: "ANSYS Inc",
 				currentLocation: "Bangalore",
-				emailId: "ahmed.mushtaq902@gmail.com",
+			
 				image: "mushtaq_sheikh.webp",
 			},
 			{
@@ -929,7 +929,7 @@ var alumni = new Vue({
 				currentJob: "Mechatronics engineer",
 				currentCompany: "Jiva Sciences",
 				currentLocation: "Bengaluru",
-				emailId: "Mahimashree.teamchimera@gmail.com",
+				
 				image: "mahimashree.webp",
 			},
 			{
@@ -943,7 +943,7 @@ var alumni = new Vue({
 				currentJob: "Software developer",
 				currentCompany: "Cisco",
 				currentLocation: "Bangalore",
-				emailId: "akshayjoish28@gmail.com",
+				
 				image: "akj.webp",
 			},
 			{
@@ -957,7 +957,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "naraharichiranjeevi@gmail.com",
+				
 				image: "chiranjeevi.webp",
 			},
 			{
@@ -970,7 +970,7 @@ var alumni = new Vue({
 				subsystem: "Brakes",
 				currentJob: "NA",
 				currentCompany: "NA",
-				emailId: "praveer.teamchimera@gmail.com",
+				
 				image: "praveer.webp",
 			},
 			{
@@ -984,7 +984,7 @@ var alumni = new Vue({
 				currentJob: "GET",
 				currentCompany: "Collins Aerospace",
 				currentLocation: "Bengaluru",
-				emailId: "sreesiddhant98@gmail.com",
+				
 				image: "sreesiddhant.webp",
 			},
 			{
@@ -998,7 +998,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "ashadfarhan@gmail.com",
+				
 				image: "ashad.webp",
 			},
 			{
@@ -1012,7 +1012,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "aniketh.satyanarayana@gmail.com",
+				
 				image: "anikethsatya.webp",
 			},
 			{
@@ -1026,7 +1026,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "Prasanna666pk@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -1040,7 +1040,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "anoopanand@icloud.com",
+				
 				image: "anoop.webp",
 			},
 			{
@@ -1054,7 +1054,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "ambareesh.r@gmail.com",
+				
 				image: "revanur.webp",
 			},
 			{
@@ -1068,7 +1068,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "shiradonsantosh@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -1082,7 +1082,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "shashankkerekai@gmail.com",
+				
 				image: "placeholder.webp",
 			},
 			{
@@ -1096,7 +1096,7 @@ var alumni = new Vue({
 				currentJob: "NA",
 				currentCompany: "NA",
 				currentLocation: "NA",
-				emailId: "dheeraj.prasanna97@gmail.com",
+				
 				image: "dheerajp.webp",
 			},
 		],

@@ -68,7 +68,7 @@
 						<img class="photo" v-bind:src="`./assets/img/alumni/`+member.image" />
 						<div class="additional-details" :id="`ad_row`+index">
 							<a v-if="member.subsystem != 'NA'"><b>Worked on:</b> {{member.subsystem}}<br> </a> 
-							<a><b>Email:</b> {{member.emailId}} <br> </span>
+							 </span>
 							<a v-if="member.currentJob != 'NA' && member.currentLocation != 'NA' &&  member.currentCompany != 'NA'"> <b>Currently:</b> <br> {{member.currentJob}}, <br>{{member.currentCompany}},  <br>{{member.currentLocation}} </a>
 
 						</div>
