@@ -40,7 +40,7 @@ var leadingTeam = new Vue({
 			{
 				image: "assets/img/team/jigisha.webp",
 				name: "Jigisha Kamal",
-				portfolio: "MAnagement Head",
+				portfolio: "Management Head",
 			},
 		],
 	},
