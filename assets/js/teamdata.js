@@ -282,7 +282,7 @@ var teamJs = new Vue({
 				subsystem: "NULL",
 			},
 			{
-				image: "assets/img/team/placeholder.webp",
+				image: "assets/img/team/Kartik S Marathe.jpeg",
 				name: "Kartik S Marathe",
 				subsystem: "Data Acquisation System",
 			},
