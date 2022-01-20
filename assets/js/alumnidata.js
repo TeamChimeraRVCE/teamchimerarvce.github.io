@@ -1099,6 +1099,21 @@ var alumni = new Vue({
 				
 				image: "dheerajp.webp",
 			},
+			{
+				name: "Abhishek Hobalidar",
+				yearofPassing: "NA",
+				USN: "NA",
+
+				Branch: "Mechanical",
+				roleInTeam: "Head of Sponsorship",
+				linkedIn: "http://www.linkedin.com/in/abhishek-hobalidar-45102632",
+				subsystem: "NA",
+				currentJob: "Design Engineer",
+				currentCompany: "L&T Technology Services Limited",
+				currentLocation: "Mysore, Karnataka",
+				
+				image: "abhishekh.webp",
+			}
 		],
 	},
 });
