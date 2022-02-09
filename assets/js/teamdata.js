@@ -311,12 +311,12 @@ var teamJs = new Vue({
 			{
 				image: "assets/img/team/Madhukesh V.jpg",
 				name: "Madhukesh V",
-				subsystem: "Electrical Head and ESO",
+				subsystem: "ESO",
 			},
 			{
 				image: "assets/img/team/Karthikeya_R_Shervegar_ESO_Management_Head.webp",
 				name: "Karthikeya R Shervegar",
-				subsystem: "ESO and Management Head",
+				subsystem: "Management Head and ESO",
 			},
 			{
 				image: "assets/img/team/Guru Ganesh.jpeg",

@@ -25,12 +25,12 @@ var leadingTeam = new Vue({
 			{
 				image: "assets/img/team/Madhukesh V.jpg",
 				name: "Madhukesh V",
-				portfolio: "Electrical Head and ESO",
+				portfolio: "ESO",
 			},
 			{
 				image: "assets/img/team/Karthikeya_R_Shervegar_ESO_Management_Head.webp",
 				name: "Karthikeya R Shervegar",
-				portfolio: "ESO and Management Head",
+				portfolio: "Management Head and ESO",
 			},
 			{
 				image: "assets/img/team/Guru Ganesh.jpeg",
