@@ -289,14 +289,39 @@ var teamJs = new Vue({
 		],
 		team2023: [
 			{
-				image: "assets/img/team/Karthikeya_R_Shervegar.jpg",
-				name: "Karthikeya R Shervegar",
-				subsystem: "Safety Circuits",
+				image: "assets/img/team/SAI KIRAN.png",
+				name: "Sai Kiran",
+				subsystem: "Team Captain",
+			},
+			{
+				image: "assets/img/team/Deeksha Bharath.jpg",
+				name: "Deeksha Bharath",
+				subsystem: "Vice Captain",
+			},
+			{
+				image: "assets/img/team/Akanksh Ramesh Muniyappa.jpg",
+				name: "Akanksh Ramesh Muniyappa",
+				subsystem: "Project Manager",
 			},
 			{
 				image: "assets/img/team/Suhas B.jpg",
 				name: "Suhas B",
-				subsystem: "Data Acquisition System ",
+				subsystem: "Project Manager",
+			},
+			{
+				image: "assets/img/team/Madhukesh V.jpg",
+				name: "Madhukesh V",
+				subsystem: "ESO",
+			},
+			{
+				image: "assets/img/team/Karthikeya_R_Shervegar_ESO_Management_Head.webp",
+				name: "Karthikeya R Shervegar",
+				subsystem: "Management Head and ESO",
+			},
+			{
+				image: "assets/img/team/Guru Ganesh.jpeg",
+				name: "Guru Ganesh",
+				subsystem: "Mechanical Head",
 			},
 			{
 				image: "assets/img/team/RAJAT RAJ.jpg",
@@ -304,18 +329,8 @@ var teamJs = new Vue({
 				subsystem: "Safety Circuits",
 			},
 			{
-				image: "assets/img/team/sai sri vastav basapathi.jpg",
-				name: "Sai Sri Vastav Basapathi",
-				subsystem: "Suspension",
-			},
-			{
 				image: "assets/img/team/Vikas Bijjal.jpg",
 				name: "Vikas Bijjal",
-				subsystem: "Powertrain",
-			},
-			{
-				image: "assets/img/team/SAI KIRAN.png",
-				name: "Sai Kiran",
 				subsystem: "Powertrain",
 			},
 			{
@@ -336,21 +351,6 @@ var teamJs = new Vue({
 			{
 				image: "assets/img/team/Aditya Y Jeppu.jpg",
 				name: "Aditya Y Jeppu",
-				subsystem: "Powertrain",
-			},
-			{
-				image: "assets/img/team/Akanksh Ramesh Muniyappa.jpg",
-				name: "Akanksh Ramesh Muniyappa",
-				subsystem: "Safety Circuits",
-			},
-			{
-				image: "assets/img/team/Deeksha Bharath.jpg",
-				name: "Deeksha Bharath",
-				subsystem: "Suspension",
-			},
-			{
-				image: "assets/img/team/Madhukesh V.jpg",
-				name: "Madhukesh V",
 				subsystem: "Powertrain",
 			},
 			{
