@@ -507,6 +507,25 @@ h6 {
 	border-color: rgb(25, 243, 6);
 }
 
+#hero .btn-bro {
+	font-family: "Raleway", sans-serif;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	display: inline-block;
+	padding: 10px 28px;
+	transition: 0.5s;
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+#hero .btn-bro:hover {
+	background: rgb(25, 243, 6);
+	border-color: rgb(25, 243, 6);
+}
+
+
 @media (min-width: 1024px) {
 	#hero {
 		background-attachment: fixed;
