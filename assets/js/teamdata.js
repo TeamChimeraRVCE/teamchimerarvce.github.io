@@ -289,7 +289,7 @@ var teamJs = new Vue({
 		],
 		team2023: [
 			{
-				image: "assets/img/team/SAI KIRAN.png",
+				image: "assets/img/team/M SAI KIRAN_Team Captain.jpg",
 				name: "Sai Kiran",
 				subsystem: "Team Captain",
 			},
@@ -299,28 +299,28 @@ var teamJs = new Vue({
 				subsystem: "Vice Captain",
 			},
 			{
-				image: "assets/img/team/Akanksh Ramesh Muniyappa.jpg",
-				name: "Akanksh Ramesh Muniyappa",
-				subsystem: "Project Manager",
-			},
-			{
-				image: "assets/img/team/Suhas B.jpg",
-				name: "Suhas B",
-				subsystem: "Project Manager",
-			},
-			{
-				image: "assets/img/team/Madhukesh V.jpg",
-				name: "Madhukesh V",
-				subsystem: "ESO",
-			},
-			{
 				image: "assets/img/team/Karthikeya_R_Shervegar_ESO_Management_Head.webp",
 				name: "Karthikeya R Shervegar",
 				subsystem: "Management Head and ESO",
 			},
 			{
-				image: "assets/img/team/Guru Ganesh.jpeg",
-				name: "Guru Ganesh",
+				image: "assets/img/team/Suhas B_Project Manager.jpg",
+				name: "Suhas B",
+				subsystem: "Project Manager",
+			},
+			{
+				image: "assets/img/team/Akanksh Ramesh Muniyappa_ProjectManager.jpg",
+				name: "Akanksh Ramesh Muniyappa",
+				subsystem: "Project Manager",
+			},
+			{
+				image: "assets/img/team/Madhukesh V_ESO.jpg",
+				name: "Madhukesh V",
+				subsystem: "ESO",
+			},
+			{
+				image: "assets/img/team/Guruganesh maddodi_mechanical head.jpeg",
+				name: "Guruganesh maddodi",
 				subsystem: "Mechanical Head",
 			},
 			{
@@ -339,7 +339,7 @@ var teamJs = new Vue({
 				subsystem: "Safety Circuits",
 			},
 			{
-				image: "assets/img/team/Aditya Chikkmath.jpg",
+				image: "assets/img/team/Aditya Chikkmath__SAFETY SUBSYSTEM.jpeg",
 				name: "Aditya Chikkmath ",
 				subsystem: "Safety Circuits",
 			},
@@ -349,12 +349,7 @@ var teamJs = new Vue({
 				subsystem: "Safety Circuits",
 			},
 			{
-				image: "assets/img/team/Aditya Y Jeppu.jpg",
-				name: "Aditya Y Jeppu",
-				subsystem: "Powertrain",
-			},
-			{
-				image: "assets/img/team/BHAVYA YASRAJ R CHAWDA.jpg",
+				image: "assets/img/team/Bhavya Yasraj R Chawda_BMS.jpg",
 				name: "Bhavya Yasraj R Chawda",
 				subsystem: "Battery Management System",
 			},
@@ -368,6 +363,53 @@ var teamJs = new Vue({
 				name: "Pratik Handi",
 				subsystem: "Chassis",
 			},
+			{
+				image: "assets/img/team/Huma Tabassum_electrical_safety circuits.jpg",
+				name: "Huma Tabassum",
+				subsystem: "Safety Circuits",
+			},
+			{
+				image: "assets/img/team/Kishan M_Safety circuits.jpg",
+				name: "Kishan M",
+				subsystem: "Safety Circuits",
+			},
+			{
+				image: "assets/img/team/Laksh M Oswal_DAS.jpg",
+				name: "Laksh M Oswal",
+				subsystem: "Data Acquisition System",
+			},
+			{
+				image: "assets/img/team/Madhusudan S C_Power Train.jpg",
+				name: "Madhusudan S C ",
+				subsystem: "Power Train",
+			},
+			{
+				image: "assets/img/team/Pallavi P_Power train.jpg",
+				name: "Pallavi P",
+				subsystem: "Powertrain",
+			},
+			
+			{
+				image: "assets/img/team/Revant M Margol_Safety(APPS and RTDS).jpg",
+				name: "Revant M Margol",
+				subsystem: "Safety Circuits",
+			},
+			{
+				image: "assets/img/team/Shivaprasad_electrical_safetycircuits.jpg",
+				name: "Shivaprasad",
+				subsystem: "Safety Circuits",
+			},
+			{
+				image: "assets/img/team/SOHEL_Break sub system.jpg",
+				name: "SOHEL",
+				subsystem: "Breaks",
+			},
+			{
+				image: "assets/img/team/Vidhula H_POWER TRAIN.jpeg",
+				name: "Vidhula H",
+				subsystem: "Powertrain",
+			},
+			
 
 		],
 	},

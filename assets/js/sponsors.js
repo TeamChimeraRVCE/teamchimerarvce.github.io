@@ -74,8 +74,8 @@ var list = new Vue({
 				name: "Prakhyath",
 			},
 			{
-				link: "https://www.bender.org/",
-				image: "assets/img/sponsers/bender.png",
+				link: "https://www.bender-in.com/",
+				image: "assets/img/sponsers/Bender-color_LOGO_en_20091021.jpg",
 				name: "Bender",
 			},
 			{
