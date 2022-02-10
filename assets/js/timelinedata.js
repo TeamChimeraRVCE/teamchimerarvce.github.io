@@ -77,6 +77,13 @@ var timelineData = new Vue({
 				desc: "Formula Bharat Virtual",
 				content: "Due to Covid-19 pandemic and the lockdown, the event was conducted virtually and the team was placed 9th in Engineering Design and 9th  overall.",
 			},
+			
+			{
+				image: "assets/img/Accumulator assembly.png",
+				title: "2021",
+				desc: "Formula Bharat Concepts Challenge ",
+				content: "The team participated in FSEV CC 2021 and ranked 4th overall, 4th in Software Integration and 5th in Engineering design presentation.",
+			},
 		],
 	},
 });

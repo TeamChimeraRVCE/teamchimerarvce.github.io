@@ -13,28 +13,28 @@ var leadingTeam = new Vue({
 				portfolio: "Vice Captain",
 			},
 			{
-				image: "assets/img/team/Akanksh Ramesh Muniyappa.jpg",
-				name: "Akanksh Ramesh Muniyappa",
-				portfolio: "Project Manager",
-			},
-			{
-				image: "assets/img/team/Suhas B.jpg",
-				name: "Suhas B",
-				portfolio: "Project Manager",
-			},
-			{
-				image: "assets/img/team/Madhukesh V.jpg",
-				name: "Madhukesh V",
-				portfolio: "ESO",
-			},
-			{
 				image: "assets/img/team/Karthikeya_R_Shervegar_ESO_Management_Head.webp",
 				name: "Karthikeya R Shervegar",
 				portfolio: "Management Head and ESO",
 			},
 			{
+				image: "assets/img/team/Suhas B_Project Manager.jpg",
+				name: "Suhas B",
+				portfolio: "Project Manager",
+			},
+			{
+				image: "assets/img/team/Akanksh Ramesh Muniyappa_ProjectManager.jpg",
+				name: "Akanksh Ramesh Muniyappa",
+				portfolio: "Project Manager",
+			},
+			{
+				image: "assets/img/team/Madhukesh V_ESO.jpg",
+				name: "Madhukesh V",
+				portfolio: "ESO",
+			},
+			{
 				image: "assets/img/team/Guru Ganesh.jpeg",
-				name: "Guru Ganesh",
+				name: "Guruganesh maddodi",
 				portfolio: "Mechanical Head",
 			},
 		],
