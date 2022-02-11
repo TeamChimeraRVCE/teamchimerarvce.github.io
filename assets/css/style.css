@@ -501,7 +501,8 @@ h6 {
 	border: 2px solid #fff;
 	color: #fff;
 	width: 190px;
-	text-align-last: center ;
+	text-align-last: center;
+
 }
 
 #hero .btn-get-started:hover {
@@ -521,7 +522,7 @@ h6 {
 	border: 2px solid #fff;
 	color: #fff;
 	width: 190px;
-	text-align-last: center ;
+	text-align-last: center;
 }
 
 #hero .btn-bro:hover {
