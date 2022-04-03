@@ -390,7 +390,7 @@ var teamJs = new Vue({
 			},
 			
 			{
-				image: "assets/img/team/Revant M Margol_Safety(APPS and RTDS).jpg",
+				image: "assets/img/team/revant.jpeg",
 				name: "Revant M Margol",
 				subsystem: "Safety Circuits",
 			},
