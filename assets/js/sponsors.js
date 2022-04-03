@@ -15,6 +15,11 @@ var list = new Vue({
 				name: "Zuken",
 			},
 			{
+				link: "http://hhv.in/",
+				image: "assets/img/sponsers/HHV_LOGO.jpg",
+				name: "HHV",
+			},
+			{
 				link: "https://www.maxongroup.com/maxon/view/content/index",
 				image: "assets/img/sponsers/maxon.webp",
 				name: "Maxon",
