@@ -16,7 +16,7 @@ var list = new Vue({
 			},
 			{
 				link: "http://hhv.in/",
-				image: "assets/img/sponsers/HHV_LOGO.jpg",
+				image: "assets/img/sponsers/HHV_LOGO_New.jpg",
 				name: "HHV",
 			},
 			{
