@@ -529,6 +529,26 @@ h6 {
 	border-color: rgb(25, 243, 6);
 }
 
+.btn-register {
+	    font-family: "Raleway", sans-serif;
+	    text-transform: uppercase;
+	    font-weight: 1000;
+	    font-size: 20px;
+	    letter-spacing: 0.5px;
+	    display: inline-block;
+	    padding: 40px 28px;
+	    transition: 0.5s;
+	     border: 2px solid #fff;
+	    color: #fff;
+	    width: 300px;
+	    text-align-last: center;
+	     align-self: center;
+	 }
+	 
+	.btn-register:hover {
+	    background: rgb(25, 243, 6);
+	    border-color: rgb(25, 243, 6);
+	}
 
 @media (min-width: 1024px) {
 	#hero {
