@@ -533,10 +533,10 @@ h6 {
 	    font-family: "Raleway", sans-serif;
 	    text-transform: uppercase;
 	    font-weight: 1000;
-	    font-size: 14px;
+	    font-size: 16px;
 	    letter-spacing: 0.5px;
 	    display: inline-block;
-	    padding: 40px 28px;
+	    padding: 20px 28px;
 	    transition: 0.5s;
 	     border: 2px solid #fff;
 	    color: #fff;
