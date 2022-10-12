@@ -413,14 +413,14 @@ var teamJs = new Vue({
 		],
 		team2024: [
 			{
-				image: "assets/img/team/2024/Amith Santhosh - power train.jpg",
-				name: "Amith Santhosh",
-				subsystem: "Powertrain",
+				image: "assets/img/team/2024/Adharsh V - DAS, Management.jpg",
+				name: "Adharsh V",
+				subsystem: "DAS, Management",
 			},
 			{
-				image: "assets/img/team/2024/Nune Manoj Kumar-Accumulator.jpeg",
-				name: "Nune Manoj Kumar",
-				subsystem: "Accumulator",
+				image: "assets/img/team/2024/Adithya Peter-Chassis.jpg",
+				name: "Adithya Peter",
+				subsystem: "Chassis",
 			},
 			{
 				image: "assets/img/team/2024/Aditya Dayal - Powertrain.jpg",
@@ -428,8 +428,8 @@ var teamJs = new Vue({
 				subsystem: "Powertrain",
 			},
 			{
-				image: "assets/img/team/2024/V shashank reddy-powertrain.jpg",
-				name: "V shashank reddy",
+				image: "assets/img/team/2024/Amith Santhosh - power train.jpg",
+				name: "Amith Santhosh",
 				subsystem: "Powertrain",
 			},
 			{
@@ -438,14 +438,9 @@ var teamJs = new Vue({
 				subsystem: "Management",
 			},
 			{
-				image: "assets/img/team/2024/Tarun-SafetyCircuits.jpeg",
-				name: "Tarun",
-				subsystem: "Safety Systems",
-			},
-			{
-				image: "assets/img/team/2024/Sreeram T- safety systems.jpg",
-				name: "Sreeram T",
-				subsystem: "Safety Systems",
+				image: "assets/img/team/2024/Chinmaya Walvekar- accumulator.jpeg",
+				name: "Chinmaya Walvekar",
+				subsystem: "Accumulator",
 			},
 			{
 				image: "assets/img/team/2024/Darshan B G- Chassis _ Bodywork.png",
@@ -453,19 +448,24 @@ var teamJs = new Vue({
 				subsystem: "Chassis, Bodywork",
 			},
 			{
-				image: "assets/img/team/2024/Rohan K - Brakes.jpg",
-				name: "Rohan K",
-				subsystem: "Brakes",
-			},
-			{
-				image: "assets/img/team/2024/Chinmaya Walvekar- accumulator.jpeg",
-				name: "Chinmaya Walvekar",
-				subsystem: "Accumulator",
-			},
-			{
 				image: "assets/img/team/2024/IshanRahman - BMS, Management.jpg",
-				name: "IshanRahman",
+				name: "Ishan Rahman",
 				subsystem: "BMS, Management",
+			},
+			{
+				image: "assets/img/team/2024/Harshil Y S - Safety Circuits.jpg",
+				name: "Harshil Y S",
+				subsystem: "Safety Systems",
+			},
+			{
+				image: "assets/img/team/2024/Kritin Hegde - Safety circuits.jpg",
+				name: "Kritin Hegde",
+				subsystem: "Safety circuits",
+			},
+			{
+				image: "assets/img/team/2024/Nune Manoj Kumar-Accumulator.jpeg",
+				name: "Nune Manoj Kumar",
+				subsystem: "Accumulator",
 			},
 			{
 				image: "assets/img/team/2024/Pranav Nimbargi - Management.jpg",
@@ -473,8 +473,18 @@ var teamJs = new Vue({
 				subsystem: "Management",
 			},
 			{
-				image: "assets/img/team/2024/Harshil Y S - Safety Circuits.jpg",
-				name: "Harshil Y S",
+				image: "assets/img/team/2024/Rohan K - Brakes.jpg",
+				name: "Rohan K",
+				subsystem: "Brakes",
+			},
+			{
+				image: "assets/img/team/2024/Sreeram T- safety systems.jpg",
+				name: "Sreeram T",
+				subsystem: "Safety Systems",
+			},
+			{
+				image: "assets/img/team/2024/Tarun-SafetyCircuits.jpeg",
+				name: "Tarun",
 				subsystem: "Safety Systems",
 			},
 			{
@@ -483,19 +493,9 @@ var teamJs = new Vue({
 				subsystem: "Powertrain",
 			},
 			{
-				image: "assets/img/team/2024/Adithya Peter-Chassis.jpg",
-				name: "Adithya Peter",
-				subsystem: "Chassis",
-			},
-			{
-				image: "assets/img/team/2024/Adharsh V - DAS, Management.jpg",
-				name: "Adharsh V",
-				subsystem: "DAS, Management",
-			},
-			{
-				image: "assets/img/team/2024/Kritin Hegde - Safety circuits.jpg",
-				name: "Kritin Hegde",
-				subsystem: "Safety circuits",
+				image: "assets/img/team/2024/V shashank reddy-powertrain.jpg",
+				name: "V Shashank Reddy",
+				subsystem: "Powertrain",
 			},
 		]
 	},
