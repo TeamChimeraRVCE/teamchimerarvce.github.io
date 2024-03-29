@@ -505,7 +505,7 @@ var teamJs = new Vue({
 				subsystem: "Project Manager, ESO",
 			},
 			{
-				image: "assets/img/team/2025/ankitha shet.jpg",
+				image: "assets/img/team/2025/Ankitha Shet.jpg",
 				name: "Ankitha Shet",
 				subsystem: "Chassis",
 			},
@@ -530,7 +530,7 @@ var teamJs = new Vue({
 				subsystem: "Team Captain, BMS",
 			},
 			{
-				image: "assets/img/team/2025/Shreyas R.jpg",
+				image: "assets/img/team/2025/Shreyas R.JPG",
 				name: "Shreyas R",
 				subsystem: "DAS",
 			},
@@ -545,7 +545,7 @@ var teamJs = new Vue({
 				subsystem: "Management Head, DAS",
 			},
 			{
-				image: "assets/img/team/2025/Varun R R.jpg",
+				image: "assets/img/team/2025/VARUN R R.jpg",
 				name: "Varun R",
 				subsystem: "Electrical HV Head, Powertrain",
 			},

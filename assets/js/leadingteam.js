@@ -33,7 +33,7 @@ var leadingTeam = new Vue({
 				subsystem: "Management Head, DAS",
 			},
 			{
-				image: "assets/img/team/2025/Varun R R.jpg",
+				image: "assets/img/team/2025/VARUN R R.jpg",
 				name: "Varun R",
 				subsystem: "Electrical HV Head, Powertrain",
 			},
