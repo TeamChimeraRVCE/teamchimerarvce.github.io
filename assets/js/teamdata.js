@@ -516,7 +516,7 @@ var teamJs = new Vue({
 			},
 			{
 				image: "assets/img/team/2025/Channaveer.jpg",
-				name: "Channaveergauda Mali Patil",
+				name: "Channaveeragouda Mali Patil",
 				subsystem: "Electrical LV Head, Safety Circuits",
 			},
 			{
