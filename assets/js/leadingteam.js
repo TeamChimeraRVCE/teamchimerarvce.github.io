@@ -5,7 +5,7 @@ var leadingTeam = new Vue({
 			{
 				image: "assets/img/team/2025/Abdul Mannan Lalsha.jpg",
 				name: "Abdulmannan",
-				portfolio: "Project Manager, Safety Circuits",
+				portfolio: "Project Manager, ESO",
 			},
 			{
 				image: "assets/img/team/2025/Aryan.jpeg",
@@ -15,7 +15,7 @@ var leadingTeam = new Vue({
 			{
 				image: "assets/img/team/2025/Channaveer.jpg",
 				name: "Channaveeragouda Mali Patil",
-				portfolio: "Electrical LV Head, ESO",
+				portfolio: "Electrical LV Head, Safety Circuit",
 			},
 			{
 				image: "assets/img/team/2025/Gaurav Makhija.jpg",
