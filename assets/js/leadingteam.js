@@ -14,7 +14,7 @@ var leadingTeam = new Vue({
 			},
 			{
 				image: "assets/img/team/2025/Channaveer.jpg",
-				name: "Channaveergauda Mali Patil",
+				name: "Channaveeragouda Mali Patil",
 				portfolio: "Electrical LV Head, ESO",
 			},
 			{
