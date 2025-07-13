@@ -1075,7 +1075,9 @@ section {
 .description {
 	font-size: 35px;
 }
-
+.button_container {
+  margin-bottom: 16px; /* Adds space below each button */
+}
 .btn {
 	border: none;
 	display: block;
@@ -1127,6 +1129,25 @@ section {
 	background: rgb(243, 243, 243);
 	margin-bottom: -20px;
 }
+.avatar-wrapper {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This makes it crop */
+  object-position: center;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
 .team .member {
 	text-align: center;
 	margin-bottom: 20px;
