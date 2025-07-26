@@ -559,38 +559,6 @@ var teamJs = new Vue({
 				name: "Vishwaa Arumugam",
 				subsystem: "Sponsorship Head",
 			},
-		],
-		team2026: [
-		{
-				image: "assets/img/team/2026/Jashwanth.jpg",
-				name: "N Jashwanth Reddy",
-				subsystem: "Capatain",
-			},
-			{
-				image: "assets/img/team/2026/HariPrasad.jpg",
-				name: "L Hari Prasad",
-				subsystem: "Electrical Head(Dynamic)",
-			},
-			{
-				image: "assets/img/team/2026/SuchetanGad.jpg",
-				name: "Suchetan Gad",
-				subsystem: "Mechanical Head",
-			},
-			{
-				image: "assets/img/team/2026/Sravani.jpg",
-				name: "Sravani H",
-				subsystem: "Management Head",
-			},
-			{
-				image: "assets/img/team/2026/YASHASVIJANA.jpg",
-				name: "Yashasvi Jana",
-				subsystem: "BMS and Accumulator Lead",
-			},
-			{
-				image: "assets/img/team/2026/Akshay.jpeg",
-				name: "Akshay B",
-				subsystem: "LV and Auxiliaries lead",
-			},
-		],
+		]
 	},
 });
