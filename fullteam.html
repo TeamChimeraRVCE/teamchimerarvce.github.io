@@ -1,25 +1,20 @@
-
-<div class="modal-header" >
-  <h5 class="modal-title">Our Team</h5>
-  <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="z-index: 999!important;">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
 <div class="modal-body" id="teamdata">
-<div class="button_container" onclick="ShowAndHide('d2021')">
+
+  <!-- Batch Buttons -->
+  <div class="button_container" onclick="ShowAndHide('d2021')">
     <button class="btn btn-raised"><span>Batch 2021</span></button>
   </div>
 
+  <!-- Repeatable Section Block for Each Batch -->
   <div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2021">
     <section class="p-md-3 mx-md-5 text-center text-lg-left ">
-      <div class="row d-flex justify-content-center" id="d2021">
+      <div class="row d-flex justify-content-center">
         <div class="row">
           <div v-for="(member, index) in team2021" class="col-lg-3 col-md-4 col-sm-6 mb-4">
-
             <div class="p-4">
               <div class="avatar w-100 white d-flex justify-content-center align-items-center">
                 <img loading="lazy" v-bind:src="member.image" 
-                  class="square-img img-fluid rounded-circle z-depth-1" />
+                     class="square-img img-fluid rounded-circle z-depth-1" />
               </div>
               <div class="text-center mt-3">
                 <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
@@ -31,26 +26,23 @@
           </div>
         </div>
       </div>
-
     </section>
   </div>
 
-
-  </br>
-  <div class="button_container">
-    <button class="btn btn-raised" onclick="ShowAndHide('d2022')"><span>Batch 2022</span></button>
+  <!-- Repeat for Batches 2022 - 2025 (no changes needed if working fine) -->
+  <div class="button_container" onclick="ShowAndHide('d2022')">
+    <button class="btn btn-raised"><span>Batch 2022</span></button>
   </div>
 
   <div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2022">
     <section class="p-md-3 mx-md-5 text-center text-lg-left ">
-      <div class="row d-flex justify-content-center" id="d2022">
+      <div class="row d-flex justify-content-center">
         <div class="row">
           <div v-for="(member, index) in team2022" class="col-lg-3 col-md-4 col-sm-6 mb-4">
-
             <div class="p-4">
               <div class="avatar w-100 white d-flex justify-content-center align-items-center">
                 <img loading="lazy" v-bind:src="member.image" 
-                  class="square-img img-fluid rounded-circle z-depth-1" />
+                     class="square-img img-fluid rounded-circle z-depth-1" />
               </div>
               <div class="text-center mt-3">
                 <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
@@ -62,26 +54,22 @@
           </div>
         </div>
       </div>
-
     </section>
   </div>
-  </br>
 
-
-
-  <div class="button_container">
-    <button class="btn btn-raised" onclick="ShowAndHide('d2023')"><span>Batch 2023</span></button>
+  <div class="button_container" onclick="ShowAndHide('d2023')">
+    <button class="btn btn-raised"><span>Batch 2023</span></button>
   </div>
+
   <div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2023">
     <section class="p-md-3 mx-md-5 text-center text-lg-left ">
-      <div class="row d-flex justify-content-center" id="d2023">
+      <div class="row d-flex justify-content-center">
         <div class="row">
           <div v-for="(member, index) in team2023" class="col-lg-3 col-md-4 col-sm-6 mb-4">
-
             <div class="p-4">
               <div class="avatar w-100 white d-flex justify-content-center align-items-center">
                 <img loading="lazy" v-bind:src="member.image" 
-                  class="square-img img-fluid rounded-circle z-depth-1" />
+                     class="square-img img-fluid rounded-circle z-depth-1" />
               </div>
               <div class="text-center mt-3">
                 <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
@@ -93,26 +81,22 @@
           </div>
         </div>
       </div>
-
     </section>
   </div>
-  </br>
 
-
-  <div class="button_container">
-    <button class="btn btn-raised" onclick="ShowAndHide('d2024')"><span>Batch 2024</span></button>
+  <div class="button_container" onclick="ShowAndHide('d2024')">
+    <button class="btn btn-raised"><span>Batch 2024</span></button>
   </div>
-  
+
   <div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2024">
     <section class="p-md-3 mx-md-5 text-center text-lg-left ">
-      <div class="row d-flex justify-content-center" id="d2024">
+      <div class="row d-flex justify-content-center">
         <div class="row">
           <div v-for="(member, index) in team2024" class="col-lg-3 col-md-4 col-sm-6 mb-4">
-  
             <div class="p-4">
               <div class="avatar w-100 white d-flex justify-content-center align-items-center">
                 <img loading="lazy" v-bind:src="member.image" 
-                  class="square-img img-fluid rounded-circle z-depth-1" />
+                     class="square-img img-fluid rounded-circle z-depth-1" />
               </div>
               <div class="text-center mt-3">
                 <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
@@ -124,42 +108,66 @@
           </div>
         </div>
       </div>
-  
     </section>
   </div>
 
-</br>
+  <div class="button_container" onclick="ShowAndHide('d2025')">
+    <button class="btn btn-raised"><span>Batch 2025</span></button>
+  </div>
 
-<div class="button_container">
-  <button class="btn btn-raised" onclick="ShowAndHide('d2025')"><span>Batch 2025</span></button>
-</div>
-
-<div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2025">
-  <section class="p-md-3 mx-md-5 text-center text-lg-left ">
-    <div class="row d-flex justify-content-center" id="d2025">
-      <div class="row">
-        <div v-for="(member, index) in team2025" class="col-lg-3 col-md-4 col-sm-6 mb-4">
-
-          <div class="p-4">
-            <div class="avatar w-100 white d-flex justify-content-center align-items-center">
-              <img loading="lazy" v-bind:src="member.image" 
-                class="square-img img-fluid rounded-circle z-depth-1" />
-            </div>
-            <div class="text-center mt-3">
-              <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
-              <p class="text-muted">
-                <small><i>{{ member.subsystem }}</i></small>
-              </p>
+  <div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2025">
+    <section class="p-md-3 mx-md-5 text-center text-lg-left ">
+      <div class="row d-flex justify-content-center">
+        <div class="row">
+          <div v-for="(member, index) in team2025" class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <div class="p-4">
+              <div class="avatar w-100 white d-flex justify-content-center align-items-center">
+                <img loading="lazy" v-bind:src="member.image" 
+                     class="square-img img-fluid rounded-circle z-depth-1" />
+              </div>
+              <div class="text-center mt-3">
+                <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
+                <p class="text-muted">
+                  <small><i>{{ member.subsystem }}</i></small>
+                </p>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
+  </div>
 
-  </section>
+  <!-- ✅ New: Batch 2026 -->
+  <div class="button_container" onclick="ShowAndHide('d2026')">
+    <button class="btn btn-raised"><span>Batch 2026</span></button>
+  </div>
+
+  <div class="container pt-1 my-5 z-depth-5" style="display:none" id="d2026">
+    <section class="p-md-3 mx-md-5 text-center text-lg-left ">
+      <div class="row d-flex justify-content-center">
+        <div class="row">
+          <div v-for="(member, index) in team2026" class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <div class="p-4">
+              <div class="avatar w-100 white d-flex justify-content-center align-items-center">
+                <img loading="lazy" v-bind:src="member.image" 
+                     class="square-img img-fluid rounded-circle z-depth-1" />
+              </div>
+              <div class="text-center mt-3">
+                <h6 class="font-weight-bold pt-2">{{ member.name }}</h6>
+                <p class="text-muted">
+                  <small><i>{{ member.subsystem }}</i></small>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
 </div>
 
-</div>
 
 </main>
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
